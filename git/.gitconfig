@@ -1,0 +1,10 @@
+[user]
+	name = siujamo
+	email = jamo.siu@outlook.com
+	signingkey = 801F831327DF41F1
+[commit]
+	gpgsign = true
+[tag]
+	gpgSign = true
+[http "https://github.com"]
+	proxy = socks5://127.0.0.1:10808
